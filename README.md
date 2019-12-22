@@ -1,5 +1,6 @@
 # d2_info
 
+```
 p coa (ber/cham)
 15/15 p enigma ap
 p dungo's
@@ -32,3 +33,4 @@ wizardspike w/ raven scarab jewel
 max block
 4.6k life (5.7k with oak sage)
 700+ mana
+```
