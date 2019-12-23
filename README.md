@@ -34,3 +34,60 @@ max block
 4.6k life (5.7k with oak sage)
 700+ mana
 ```
+
+75 fcr
+
+```
+Perfect Ber'd Shako
+
+Perfect 30 Maras
+
+Perfect Hoto Flail 40 Res
+
+Perfect 15/15 775 GP Enigma
+
+Trang Gloves
+
+2x Soj (Crown)
+
+Perfect Arachnid Mesh
+
+Eth Treks 239def- 142ED/15str/12vit/62pr
+
+Perfect Upd' Ist'd Hoz 579def
+
+Switch:
+
+35 Spirit Monarch
+
+Cta 6/6/3 Flail
+
+Inv:
+
+20/20/9 anni
+
+19/20 Ptorch
+
+2x 16life/5allres small charms football gfx
+
+6x 18life/5allres small charms football gfx
+
+2x 19life/5allres small charms football gfx
+
+1x Pally Combat GC /31 Life eye gfx
+
+2x Pally Combat GC/33 Life eye gfx
+
+4x Pally COmbat GC/34 Life eye gfx
+
+2x Pally COmbat GC/35 Life eye gfx
+
+
+Merc:
+
+Eth Cryptic Axe 17Med - 221ed/234AR bonus/4crit strike
+
+Ebugged Fort AP 3552Def 1.3 Life
+
+Ral'd Andys 10 LL
+```
