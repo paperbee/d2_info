@@ -91,3 +91,37 @@ Ebugged Fort AP 3552Def 1.3 Life
 
 Ral'd Andys 10 LL
 ```
+
+```
+Thug: 97 Paladin
+P EoD Cuirass
+P GoD Zerker
+P GoD PB
+382/40 GoB Zerker
+P Trang Gloves
+Crafted Gloves: 20 IAS / 3LL / 10 CB / 15 str / 12 dex / 20 life / 30 LR
+P Scourge Hoto
+P Enigma Cuirass
+P Shako 'Ber'
+P CoA - 'Ber' + 7 fhr / 9 dex / 30 CR / -15 Req Jewel
+P Arach
+P Dungo
+P Up'd Waterwalks
+Perm Soul Spurs
+JSTOD - 65/121 Base - 3 x 'Ber' 1 x 40 ed / 20 life Jewel
+P SoP ST
+P SoE ST
+P Exile ST - 45 Res - 1248 Defense
+P Up'd HoZ
+6/6/4/305 3HS / 3 Medi / 3 Conc CTA War Scepter
+2 x 5% Bk Matching
+2 x Dwarf Star Matching
+2 x 20/20 Wisp Matching
+2 x Raven Matching
+Storm Master Ring - 10 fcr / 2 LL / 5 str / 15 dex / 58L / 11 Res All
+Skull Wing Amulet - 2 Pal / 20 fcr / 19 dex / 58L / 13 Mana / 5 Regen
+20/20/25 P Torch
+20/20/10 Anni
+9 x 45L Eye Gfx Pcomb
+10 x 20/5 Bmana
+```
