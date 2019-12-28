@@ -125,3 +125,20 @@ Skull Wing Amulet - 2 Pal / 20 fcr / 19 dex / 58L / 13 Mana / 5 Regen
 9 x 45L Eye Gfx Pcomb
 10 x 20/5 Bmana
 ```
+
+barb conc
+```
+Gface - 30/60/9/9
+Perfect Fort Helforge
+Perfect Grief Colossus Blade
+Perfect Ss - 30/60/9/9
+Perfect Dungos
+Perfect Upped Gores
+Perfect Dracs
+3 Wc clubs 39str 64 def
+Matching angelics
+
+37x 32020 Coin
+20/20 torch
+20/20/5 anni
+```
