@@ -141,4 +141,16 @@ Matching angelics
 37x 32020 Coin
 20/20 torch
 20/20/5 anni
+``` 
+
+```
+coa berber(31 dr)
+wizzy with 15 ress 9dex
+pala spirit 35 fcr(random)
+trang
+arach
+standstorm
+mara
+wisp + 20 dex raven
+9 pc skillers 30+ life
 ```
